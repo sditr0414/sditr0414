@@ -2,7 +2,12 @@
 
 **로봇 제어 · 비전 · 임베디드**
 
-펌웨어부터 로봇팔 제어, 비전 모델 실행까지 직접 만들고 확인합니다.
+기계공학을 전공하고 AI융합 로봇 SW개발자 과정을 수료했습니다.
+카메라로 지그 위치를 다시 측정해 로봇팔 동작을 보정하는 조립·검사 시스템을 만들었고,
+STM32와 FreeRTOS로 이동 로봇의 펌웨어와 통신 규격을 작성했습니다.
+YOLO 모델을 Raspberry Pi5에서 실행하는 보행 보조 장치와 PLC 병렬 적재 공정도 구현했습니다.
+
+설계부터 구현, 디버깅까지 어느 단계도 가볍게 넘기지 않습니다.
 
 **[포트폴리오 사이트 ↗](https://sditr0414.github.io/)**
 
@@ -39,7 +44,7 @@
 <a href="https://sditr0414.github.io/#plc"><img src="assets/plc.jpg" alt="PLC 기반 창고 적재 제어" width="100%"/></a>
 <h3>PLC 기반 창고 적재 제어</h3>
 <p>금속·비금속 소재를 판별해 1~4층 창고에 병렬로 적재</p>
-<p><code>Mitsubishi Q PLC · GX Works2</code></p>
+<p><code>GX Works2 · GT Designer3</code></p>
 <p><a href="https://sditr0414.github.io/#plc">상세 보기</a></p>
 </td>
 <td width="33%" valign="top">
@@ -71,28 +76,28 @@
 ### 제어·임베디드
 
 <p>
-<a href="https://sditr0414.github.io/#robot"><img src="https://img.shields.io/badge/C-2d4a6b?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
-<a href="https://sditr0414.github.io/#skills"><img src="https://img.shields.io/badge/C%2B%2B-2d4a6b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
-<a href="https://sditr0414.github.io/#robot"><img src="https://img.shields.io/badge/STM32-2d4a6b?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
-<a href="https://sditr0414.github.io/#robot"><img src="https://img.shields.io/badge/FreeRTOS-2d4a6b?style=flat-square" alt="FreeRTOS"/></a>
-<a href="https://sditr0414.github.io/#plc"><img src="https://img.shields.io/badge/PLC-2d4a6b?style=flat-square" alt="PLC"/></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://img.shields.io/badge/C-2d4a6b?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-2d4a6b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-2d4a6b?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+<a href="https://www.freertos.org/"><img src="https://img.shields.io/badge/FreeRTOS-2d4a6b?style=flat-square" alt="FreeRTOS"/></a>
+<a href="https://www.mitsubishielectric.com/fa/products/cnt/plc/"><img src="https://img.shields.io/badge/PLC-2d4a6b?style=flat-square" alt="PLC"/></a>
 </p>
 
 ### 로봇·비전
 
 <p>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/Python-1f6f6b?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/ROS2-1f6f6b?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/></a>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/OpenCV-1f6f6b?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/YOLO-1f6f6b?style=flat-square" alt="YOLO"/></a>
-<a href="https://sditr0414.github.io/#vision"><img src="https://img.shields.io/badge/TFLite-1f6f6b?style=flat-square&logo=tensorflow&logoColor=white" alt="TFLite"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1f6f6b?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://docs.ros.org/"><img src="https://img.shields.io/badge/ROS2-1f6f6b?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-1f6f6b?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://docs.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-1f6f6b?style=flat-square" alt="YOLO"/></a>
+<a href="https://ai.google.dev/edge/litert"><img src="https://img.shields.io/badge/TFLite-1f6f6b?style=flat-square&logo=tensorflow&logoColor=white" alt="TFLite"/></a>
 </p>
 
 ### 설계·개발 도구
 
 <p>
-<a href="https://sditr0414.github.io/#skills"><img src="https://img.shields.io/badge/SolidWorks-5b6472?style=flat-square" alt="SolidWorks"/></a>
-<a href="https://sditr0414.github.io/#thesis"><img src="https://img.shields.io/badge/MATLAB-5b6472?style=flat-square" alt="MATLAB"/></a>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/MuJoCo-5b6472?style=flat-square" alt="MuJoCo"/></a>
-<a href="https://sditr0414.github.io/#opencv"><img src="https://img.shields.io/badge/Isaac%20Sim-5b6472?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim"/></a>
+<a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-5b6472?style=flat-square" alt="SolidWorks"/></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-5b6472?style=flat-square" alt="MATLAB"/></a>
+<a href="https://mujoco.org/"><img src="https://img.shields.io/badge/MuJoCo-5b6472?style=flat-square" alt="MuJoCo"/></a>
+<a href="https://developer.nvidia.com/isaac/sim"><img src="https://img.shields.io/badge/Isaac%20Sim-5b6472?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim"/></a>
 </p>
